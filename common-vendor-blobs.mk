@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/samsung/c1skt-common
+LOCAL_PATH := vendor/samsung/c1lgt-common
 
 PRODUCT_PACKAGES += \
 	libUMP \
